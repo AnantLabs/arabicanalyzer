@@ -1,0 +1,1 @@
+A library for adding support for Arabic language in Lucene.
